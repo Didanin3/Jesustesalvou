@@ -1,0 +1,31 @@
+#menu-h ul {
+    list-style-type: none;
+    padding: 0;
+    font-family:monospace;
+    font-size: 18pt;
+    background-color: rgb(26, 32, 39);
+}
+#menu-h ul li{
+    display: inline;
+}#menu-h  ul li a{
+    color: aqua;
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+    transition: .4s;
+
+}#menu-h  ul li a:hover{
+    background-color: blue;
+}.titulo{
+    font-size: 20pt;
+}.tamanhoimgheader{
+    height: 400px;
+    width: 100%;
+    
+}p{
+    font-size: 15pt;
+    font-family: monospace;
+
+}b{
+    color: rgb(15, 49, 122);
+}
